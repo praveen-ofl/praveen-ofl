@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🎓 2nd-year **Computer Science & Business Systems** student at Rajalakshmi Institute of Technology (RIT), Chennai
+- 🎓 3rd-year **Computer Science & Business Systems** student at Rajalakshmi Institute of Technology (RIT), Chennai
 - 🛍️ Founder & Full-Stack Developer of **[Modart](https://your-modart-url.com)** — a live print-on-demand apparel & gifts brand
 - 🤖 Currently building and interviewing for **AI/ML internship** roles
 - 🧩 Comfortable end-to-end: Python/FastAPI on the backend, Next.js/Flutter on the front

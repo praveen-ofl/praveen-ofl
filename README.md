@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Praveen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Founder+%40+Modart;AI%2FML+Systems+Builder;CSBS+Student+%40+RIT+Chennai;Python+%7C+FastAPI+%7C+RAG+%7C+Flutter&font=Fira+Code&center=true&width=520&height=45&color=D72638&vCenter=true&size=22&pause=1500">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveen-ofl&color=D72638&style=flat-square&label=Profile+views" />
   <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Internships-D72638?style=flat-square" />
 </p>
